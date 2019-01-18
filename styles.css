@@ -1,0 +1,31 @@
+/* I'm going to make the H1 awesome  */
+/* The more specific one wins, the last one wins */
+h1 {
+    color: #6f3cbf;
+    font-size: 40px; 
+}
+
+
+.peru.image {
+    width: 300px;
+}
+
+
+.mexico.image {
+    width: 250px;
+}
+
+
+#mexicocity {
+    height: 220px;
+}
+
+
+#chichen {
+    height: 220px;
+}
+
+
+#cancun {
+    height: 220px;
+}

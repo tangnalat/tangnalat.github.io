@@ -1,0 +1,46 @@
+/* I'm going to make the H1 awesome  */
+/* The more specific one wins, the last one wins */
+h1 {
+    color: #6f3cbf;
+    font-size: 50px; 
+}
+
+
+
+
+/* For ID */
+#first {
+    color: purple; 
+}
+
+
+#third {
+    color: orange;
+}
+
+
+#chichen {
+    width: 100px; 
+}
+
+
+#cancun {
+    width: 200px;
+}
+
+
+/* For class */
+.tacos {
+    width: 300px;
+}
+
+
+.travel.enjoy {
+    color: yellow;
+}
+
+
+/* Only paragraph tag with those classes */
+p.travel.enjoy {
+    color: yellow;
+}
