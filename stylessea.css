@@ -1,0 +1,204 @@
+.navbar-light .navbar-nav .nav-link {
+    color: #eeeaf0;
+}
+
+.frontcol {
+    width: 100%;
+    height: 250px;
+    margin-top: 40px;
+}
+
+.nav-link {
+    font-size: 14px;
+}
+
+
+a.navbar-brand img {
+    width: 50px;
+    height: 35px;
+}
+
+.navbar-light .navbar-brand {
+    font-size: 15px;
+    color: #eeeaf0;
+    margin-top: 4px;
+    font-weight: 700;
+}
+
+.jumbotron {
+    background-image: url(flag1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    padding-top: 100px;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.d-block.w-100 {
+    height: 100%;
+}
+
+.btn.btn-sm{
+    color:#eeeaf0;
+    margin-bottom: 30px;
+}
+
+p.colhead {
+    font-size: 19px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+p.colcontent {
+    font-size: 15px;
+}
+
+h1.carousel {
+    font-weight:700;
+    font-size: 60px;
+}
+
+h3.carousel.subcaption {
+    font-weight: 4000;
+}
+
+i.fab.fa-facebook-square {
+    font-size: 20px;
+}
+
+i.fab.fa-instagram {
+    font-size: 20px;
+}
+
+i.fab.fa-twitter-square {
+    font-size: 20px;
+}
+
+
+.frontcol-mission {
+    text-align: center;
+    color: #5e3f96;
+    font-weight: 700;
+    margin-top: 30px;
+    font-size: 22px;
+}
+
+.frontcol-mission-sub {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 60px;
+    font-weight: 450;
+}
+
+hr.style1 {
+    border-top: 2px dotted #b7b8ba;
+    width: 35%;
+    margin-top: 20px;
+}
+
+
+h1.display-4 {
+    font-size: 25px;
+    margin-top: -40px; 
+    font-weight: 600;
+}
+
+
+p.lead {
+    font-size: 20px;
+    font-weight: 450;
+}
+
+
+h3.mission-head {
+    text-align: center;
+    color: #5e3f96;
+    font-weight: 800;
+}
+
+hr.style2 {
+    border-top: 2px dotted #b7b8ba;
+    width: 10%;
+    margin-top: 20px;
+}
+
+h5.card-title {
+    color: #5e3f96;
+    font-weight: 700;
+    font-size: 17px;
+}
+
+
+p.card-text.title {
+    font-size: 16px;
+    color: #788188;
+    margin-top: 30px;
+    font-weight: 500;
+}
+
+
+p.card-text.program {
+    font-size: 14px;
+    color: #788188;
+    margin-top: -7px;
+}
+
+
+.btn.btn-sm.team {
+    margin-top: 15px;
+    margin-bottom: -5px;
+}
+
+
+hr.style3 {
+    border-top: 2px dotted #b7b8ba;
+    width: 80%;
+    margin-top: 10px;
+}
+
+.card {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+h3.team-head {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: #5e3f96;
+}
+
+
+.card-header.events {
+    font-size: 9px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card-title.events {
+    font-size: 18px;
+    text-align: center;
+}
+
+
+p.card-text.sub.events {
+    color: #788188;
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+
+
+.frontcol.aff {
+    height: 500px;
+    margin-bottom: 30px;
+}
+
+
+.row.events {
+    background-color: #eeeaf0;
+}
